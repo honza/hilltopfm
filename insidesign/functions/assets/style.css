@@ -1,0 +1,155 @@
+.inde_wrap{
+	width:880px;
+}
+
+.inde_section{
+	border:1px solid #BCC8D0;
+	border-bottom:0;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	background:#f9f9f9;
+	margin-bottom: 20px;
+}
+
+.inde_opts label{
+	font-size:12px;
+	font-weight:700;
+	width:200px;
+	display:block;
+	float:left;	
+}
+.inde_input {
+	padding:30px 10px;
+	border-bottom:1px solid #ddd;
+	border-top:1px solid #fff;
+}
+.inde_opts small{
+	display:block;
+	float:right;
+	width:200px;
+	color:#999;
+}
+.inde_opts input[type="text"], .inde_opts select{
+	width:400px;
+	font-size:12px;
+	padding:4px;
+	color:#333;
+	line-height:1em;
+	background:#f3f3f3;
+}
+.inde_input input:focus, .inde_input textarea:focus{
+		background:#fff;
+}
+.inde_input textarea{
+	width:400px;
+	height:175px;
+	font-size:12px;
+	padding:4px;
+	color:#333;
+	line-height:1.5em;
+	background:#f3f3f3;
+}
+
+
+.inde_title h3 {
+	cursor:pointer;
+	font-size:1em;
+	text-transform: uppercase;
+	margin:0;
+	font-weight:bold;
+	color:#232323;
+	float:left;
+	width:80%;
+	padding:18px 4px 10px;
+}
+
+.inde_title.inactive, .inde_title.active{
+	-moz-border-radius-topleft: 3px;
+	-moz-border-radius-topright: 3px;
+	-webkit-border-top-left-radius: 3px;
+	-webkit-border-top-right:-radius: 3px;
+	border-top-left-radius: 3px;
+	border-top-right-radius: 3px;
+}
+
+.inde_title.inactive{
+	cursor:pointer;
+	border-bottom:1px solid #BCC8D0;
+	background:url(../assets/bg.png) repeat-x;
+	padding:0;
+}
+
+.inde_title.active{
+	cursor:pointer;
+	border-bottom:1px solid #BCC8D0;
+	background:url(../assets/bg2.png) repeat-x;
+	padding:0;
+}
+
+.inde_title h3.inactive img, .inde_title h3.active img {
+	margin:-8px 10px 0 2px;
+	width:32px;
+	height:32px;	
+	float:left;
+}
+
+.inde_title h3.twitter img {
+	background:url('../assets/twitter.png') no-repeat;
+}
+
+.inde_title h3.slider img {
+	background:url('../assets/slideshow.png') no-repeat;
+}
+.inde_title h3.ads img {
+	background:url('../assets/advertising.png') no-repeat;
+}
+.inde_title h3.general img {
+	background:url('../assets/widgets.png') no-repeat;
+}
+.inde_title h3.roundabout img {
+	background:url('../assets/pictures.png') no-repeat;
+}
+.inde_title h3.home img {
+	background:url('../assets/house.png') no-repeat;
+}
+.inde_title h3.infocolumns img {
+	background:url('../assets/brick.png') no-repeat;
+}
+.inde_title h3.footer img {
+	background:url('../assets/cog.png') no-repeat;
+}
+.inde_title h3.piecemaker img {
+	background:url('../assets/transform_rotate.png') no-repeat;
+}
+.inde_title h3.tabsslider img {
+	background:url('../assets/tab.png') no-repeat;
+}
+.inde_title h3.portfolio img {
+	background:url('../assets/folders.png') no-repeat;
+}
+
+.inde_title span.submit{
+	display:block;
+	float:right;
+	margin:0;
+	padding:0;
+	width:15%;
+	padding:14px 0;
+}
+
+.inde_title .button { border: 1px solid #ccc;}
+
+.clearfix{
+	clear:both;
+}
+
+.inde_table th, .inde_table td{
+	border:1px solid #bbb;
+	padding:10px;
+	text-align:center;
+}
+
+.inde_table th, .inde_table td.feature{
+	border-color:#888;
+	}

@@ -1,0 +1,512 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Samuli Saarinen <smulitus@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+
+#. Text in function
+#: lang/loop.php:64
+msgid "% Comments"
+msgstr ""
+
+#. Text in function
+#: lang/functions/functions.comments.php:28
+msgid "%1$s at %2$s"
+msgstr ""
+
+#. Text in function
+#: lang/loop.php:77
+msgid "%2$s"
+msgstr ""
+
+#. Text in function
+#: lang/functions/functions.comments.php:26
+msgid "%s"
+msgstr ""
+
+#. Text in function
+#: lang/comments.php:30
+msgid "&larr; Older Comments"
+msgstr ""
+
+#. Text in function
+#: lang/functions/functions.comments.php:30
+#: lang/functions/functions.comments.php:46
+msgid "(Edit)"
+msgstr ""
+
+#. Text in function
+#: lang/loop.php:64
+msgid "1 Comment"
+msgstr ""
+
+#. Text in function
+#: lang/loop.php:152
+msgid "<span class=\"next\">&raquo;</span> <span class=\"nextText\">Newer Posts</span>"
+msgstr ""
+
+#. Text in function
+#: lang/page-portfolio-2.php:244
+#: lang/page-portfolio-1.php:194
+msgid "<span class=\"next\">»</span> <span class=\"nextText\">Newer Works</span>"
+msgstr ""
+
+#. Text in function
+#: lang/loop.php:146
+msgid "<span class=\"previous\">&laquo;</span> <span class=\"previousText\">Older Posts</span>"
+msgstr ""
+
+#. Text in function
+#: lang/page-portfolio-2.php:238
+#: lang/page-portfolio-1.php:188
+msgid "<span class=\"previous\">»</span> <span class=\"previousText\">Older Works</span>"
+msgstr ""
+
+#. Text in function
+#: lang/attachment.php:7
+msgid "<span>&larr;</span> %s"
+msgstr ""
+
+#. Text in function
+#: lang/author.php:44
+#: lang/single.php:67
+msgid "About %s"
+msgstr ""
+
+#. Text in echo
+#: lang/loop.php:16
+msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+msgstr ""
+
+#. Text in echo
+#: lang/404.php:34
+msgid "Apologies, but the page you requested could not be found. Perhaps searching will help."
+msgstr ""
+
+#. Text in echo
+#: lang/sidebar.php:109
+msgid "Archives"
+msgstr ""
+
+#. Text in function
+#: lang/author.php:24
+#: lang/author.php:38
+msgid "Author Archives: %s"
+msgstr ""
+
+#. Text in echo
+#: lang/archive.php:32
+msgid "Blog Archives"
+msgstr ""
+
+#. Text in function
+#: lang/functions/functions.widgets.php:1
+msgid "Blog Sidebar Widget Area"
+msgstr ""
+
+#. Text in function
+#: lang/attachment.php:25
+msgid "By %2$s"
+msgstr ""
+
+#. Text in echo
+#: lang/page-portfolio-2.php:209
+#: lang/sidebar.php:70
+#: lang/page-portfolio-1.php:149
+msgid "CMS:"
+msgstr ""
+
+#. Text in function
+#: lang/comments.php:44
+msgid "Cancel reply"
+msgstr ""
+
+#. Text in function
+#: lang/category.php:19
+msgid "Category Archives: %s"
+msgstr ""
+
+#. Text in function
+#: lang/functions/functions.widgets.php:1
+msgid "Center Footer Widget Area"
+msgstr ""
+
+#. Text in echo
+#: lang/page-portfolio-2.php:205
+#: lang/sidebar.php:66
+#: lang/page-portfolio-1.php:145
+msgid "Client:"
+msgstr ""
+
+#. Text in echo
+#: lang/comments.php:37
+msgid "Comments are closed."
+msgstr ""
+
+#. Text in function
+#: lang/attachment.php:81
+#: lang/loop.php:59
+#: lang/loop.php:98
+msgid "Continue reading &rarr;"
+msgstr ""
+
+#. Text in function
+#: lang/archive.php:26
+msgid "Daily Archives: %s"
+msgstr ""
+
+#. Text in echo
+#: lang/page-portfolio-2.php:212
+#: lang/sidebar.php:73
+#: lang/page-portfolio-1.php:152
+msgid "Date:"
+msgstr ""
+
+#. Text in function
+#: lang/page-tabs-slider.php:71
+#: lang/page-piecemaker-slider.php:30
+#: lang/page-dots-slider-2.php:38
+#: lang/attachment.php:46
+#: lang/attachment.php:85
+#: lang/page-roundabout-slider.php:54
+#: lang/loop.php:50
+#: lang/loop.php:65
+#: lang/loop.php:113
+#: lang/onecolumn-page.php:41
+#: lang/page-home.php:12
+#: lang/page-dots-slider-1.php:57
+#: lang/single.php:77
+#: lang/page.php:38
+msgid "Edit"
+msgstr ""
+
+#. Text in function
+#: lang/comments.php:44
+msgid "Email"
+msgstr ""
+
+#. Text in function
+#: lang/attachment.php:25
+msgid "Full size is %s pixels"
+msgstr ""
+
+#. Text in function
+#: lang/functions/functions.widgets.php:1
+msgid "General Sidebar Widget Area"
+msgstr ""
+
+#. Text in echo
+#: lang/sidebar.php:85
+msgid "Get Quote"
+msgstr ""
+
+#. Text in echo
+#: lang/single-work.php:80
+msgid "Image"
+msgstr ""
+
+#. Text in function
+#: lang/comments.php:44
+msgid "Leave a Reply"
+msgstr ""
+
+#. Text in function
+#: lang/comments.php:44
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#. Text in function
+#: lang/loop.php:64
+msgid "Leave a comment"
+msgstr ""
+
+#. Text in function
+#: lang/functions/functions.widgets.php:1
+msgid "Left Footer Widget Area"
+msgstr ""
+
+#. Text in function
+#: lang/attachment.php:25
+msgid "Link to full-size image"
+msgstr ""
+
+#. Text in function
+#: lang/comments.php:44
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr ""
+
+#. Text in echo
+#: lang/sidebar.php:114
+msgid "Meta"
+msgstr ""
+
+#. Text in function
+#: lang/archive.php:28
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#. Text in echo
+#: lang/loop.php:47
+msgid "More Galleries"
+msgstr ""
+
+#. Text in function
+#: lang/comments.php:44
+msgid "Name"
+msgstr ""
+
+#. Text in function
+#: lang/comments.php:31
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#. Text in echo
+#: lang/loop.php:15
+#: lang/404.php:33
+msgid "Not Found"
+msgstr ""
+
+#. Text in echo
+#: lang/search.php:40
+msgid "Nothing Found"
+msgstr ""
+
+#. Text in echo
+#: lang/functions/functions.widgets.php:90
+msgid "Number of Posts:"
+msgstr ""
+
+#. Text in function
+#: lang/attachment.php:82
+#: lang/loop.php:99
+#: lang/onecolumn-page.php:40
+#: lang/single.php:81
+#: lang/page.php:37
+msgid "Pages:"
+msgstr ""
+
+#. Text in function
+#: lang/loop.php:25
+#: lang/loop.php:39
+#: lang/loop.php:72
+msgid "Permalink to %s"
+msgstr ""
+
+#. Text in echo
+#: lang/functions/functions.comments.php:46
+msgid "Pingback:"
+msgstr ""
+
+#. Text in function
+#: lang/functions/functions.widgets.php:1
+msgid "Portfolio Sidebar Widget Area"
+msgstr ""
+
+#. Text in function
+#: lang/comments.php:44
+msgid "Post Comment"
+msgstr ""
+
+#. Text in function
+#: lang/attachment.php:25
+msgid "Published %2$s"
+msgstr ""
+
+#. Text in echo
+#: lang/page-portfolio-2.php:138
+#: lang/page-portfolio-2.php:222
+#: lang/functions/functions.widgets.php:136
+#: lang/page-portfolio-1.php:170
+msgid "Read More"
+msgstr ""
+
+#. Text in function
+#: lang/comments.php:44
+msgid "Required fields are marked %s"
+msgstr ""
+
+#. Text in function
+#: lang/attachment.php:7
+msgid "Return to %s"
+msgstr ""
+
+#. Text in function
+#: lang/functions/functions.widgets.php:1
+msgid "Right Footer Widget Area"
+msgstr ""
+
+#. Text in function
+#: lang/search.php:18
+#: lang/search.php:34
+msgid "Search Results for: %s"
+msgstr ""
+
+#. Text in echo
+#: lang/search.php:41
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr ""
+
+#. Text in echo
+#: lang/functions/functions.widgets.php:315
+msgid "Subtitle:"
+msgstr ""
+
+#. Text in function
+#: lang/tag.php:5
+msgid "Tag Archives: %s"
+msgstr ""
+
+#. Text in function
+#: lang/loop.php:106
+msgid "Tagged %2$s"
+msgstr ""
+
+#. Text in echo
+#: lang/page-portfolio-2.php:134
+#: lang/page-portfolio-1.php:166
+msgid "Testimonials"
+msgstr ""
+
+#. Text in function
+#: lang/functions/functions.widgets.php:1
+msgid "The blog sidebar widget area"
+msgstr ""
+
+#. Text in function
+#: lang/functions/functions.widgets.php:1
+msgid "The center footer widget area"
+msgstr ""
+
+#. Text in function
+#: lang/functions/functions.widgets.php:1
+msgid "The general sidebar widget area"
+msgstr ""
+
+#. Text in function
+#: lang/functions/functions.widgets.php:1
+msgid "The left footer widget area"
+msgstr ""
+
+#. Text in function
+#: lang/functions/functions.widgets.php:1
+msgid "The portfolio sidebar widget area"
+msgstr ""
+
+#. Text in function
+#: lang/functions/functions.widgets.php:1
+msgid "The right footer widget area"
+msgstr ""
+
+#. Text in function
+#: lang/loop.php:39
+msgid "This gallery contains <a %1$s>%2$s photos</a>."
+msgstr ""
+
+#. Text in echo
+#: lang/comments.php:5
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#. Text in echo
+#: lang/functions/functions.widgets.php:311
+msgid "Title:"
+msgstr ""
+
+#. Text in echo
+#: lang/page-portfolio-2.php:218
+#: lang/sidebar.php:79
+#: lang/page-portfolio-1.php:160
+msgid "View Live"
+msgstr ""
+
+#. Text in function
+#: lang/attachment.php:25
+msgid "View all posts by %s"
+msgstr ""
+
+#. Text in function
+#: lang/author.php:47
+#: lang/single.php:70
+msgid "View all posts by %s &rarr;"
+msgstr ""
+
+#. Text in echo
+#: lang/loop.php:47
+msgid "View posts in the Gallery category"
+msgstr ""
+
+#. Text in function
+#: lang/comments.php:44
+msgid "Website"
+msgstr ""
+
+#. Text in function
+#: lang/archive.php:30
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#. Text in function
+#: lang/comments.php:44
+msgid "You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags and attributes: %s"
+msgstr ""
+
+#. Text in function
+#: lang/comments.php:44
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#. Text in echo
+#: lang/functions/functions.comments.php:18
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Text in function
+#: lang/comments.php:44
+msgid "Your email address will not be published."
+msgstr ""
+
+#. Text in echo
+#: lang/page-our-team.php:159
+msgid "contact"
+msgstr ""
+
+#. Text in echo
+#: lang/page-our-team.php:86
+#: lang/page-our-team.php:94
+#: lang/page-our-team.php:102
+#: lang/page-our-team.php:106
+#: lang/page-our-team.php:110
+#: lang/page-our-team.php:114
+#: lang/page-our-team.php:118
+#: lang/page-our-team.php:122
+#: lang/page-our-team.php:126
+#: lang/page-our-team.php:130
+#: lang/page-our-team.php:134
+msgid "facebook"
+msgstr ""
+
+#. Text in echo
+#: lang/page-our-team.php:98
+msgid "tumblr"
+msgstr ""
+
+#. Text in echo
+#: lang/page-our-team.php:90
+msgid "twitter"
+msgstr ""
+
+#. Text in echo
+#: lang/page-our-team.php:143
+msgid "vcard"
+msgstr ""
+
+#. Text in echo
+#: lang/page-our-team.php:151
+msgid "website"
+msgstr ""
+

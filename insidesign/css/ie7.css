@@ -1,0 +1,12 @@
+/* Misc */
+input[type=radio], input[type=radio]:hover, input[type=radio]:focus, input[type=radio]:active,
+input[type=checkbox], input[type=checkbox]:hover, input[type=checkbox]:focus, input[type=checkbox]:active { background: none; border: none; }
+
+/* Sliders */
+#dotsSliderNav { bottom: 12px; }
+#dotsSlider2Nav { bottom: 48px; }
+#tabsNav { bottom: 36px; }
+
+/* Portfolio & Blog */
+#portfolio .taxonomies .separator, #subpage #portfolioInfo .taxonomies .separator { margin: 0 3px;}
+#portfolioSliderNav { height:10px; padding:10px 20px 9px; }

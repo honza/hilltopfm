@@ -1,0 +1,38 @@
+/* IE (all versions) */
+/* ----------------------------------------- */
+
+/* Misc */
+div { zoom: 1; }
+button span { margin: 0; }
+
+/* Form */
+#commentform input[type=text], .wpcf7 input[type=text] { padding: 5px 10px 11px; }
+/* General */
+.header h3 { float: none; }
+
+/* Search */
+#search input[type=text] { padding: 13px 60px 7px 20px; }
+#search input[type=submit] { display: block; font-size: 0; line-height: 0; }
+
+/* Navigation */
+#navigation .nav ul { border: 1px solid #cdd8e0; }
+
+/* Sliders */
+#sliderNav1 a, #dotsSliderNav a, #dotsSlider2Nav a { font-size: 0px; text-indent: 1px; }
+#dotsSliderNav { bottom: 22px; }
+#dotsSlider2 li { background: transparent !important; }
+#dotsSlider2Nav { bottom: 59px; }
+
+/* Tabs Slider */
+#tabsNav { bottom: 23px; }
+
+/* Content Bottom */
+#support button { margin-right: 12px; }
+#newsletter form input[type=radio] { margin-bottom: 0; }
+#newsletter form button { margin: 12px 12px 0 0; }
+
+/* Portfolio & Blog */
+#portfolio img, #blog img { border: 1px solid #e0e3e8; }
+#portfolio .taxonomies, #portfolio .taxonomies li, #subpage #portfolioInfo .taxonomies, #subpage #portfolioInfo .taxonomies li { display: inline; }
+#portfolioSliderNav { left:-1px;  padding: 0 20px 29px 21px; height: 0;}
+#portfolioSliderNav a {	font-size: 0; text-indent: 1px; }
